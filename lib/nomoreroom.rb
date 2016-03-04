@@ -1,0 +1,2 @@
+class NoMoreRoom < StandardError
+end
